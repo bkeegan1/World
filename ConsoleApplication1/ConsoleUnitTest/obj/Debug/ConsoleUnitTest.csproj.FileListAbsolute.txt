@@ -1,0 +1,8 @@
+C:\Users\bkeegan\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleUnitTest\obj\Debug\ConsoleUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\bkeegan\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleUnitTest\bin\Debug\ConsoleUnitTest.dll
+C:\Users\bkeegan\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleUnitTest\bin\Debug\ConsoleUnitTest.pdb
+C:\Users\bkeegan\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleUnitTest\bin\Debug\ConsoleApplication1.exe
+C:\Users\bkeegan\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleUnitTest\bin\Debug\ConsoleApplication1.pdb
+C:\Users\bkeegan\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleUnitTest\obj\Debug\ConsoleUnitTest.dll
+C:\Users\bkeegan\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleUnitTest\obj\Debug\ConsoleUnitTest.pdb
+C:\Users\bkeegan\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleUnitTest\bin\Debug\ConsoleUnitTest.dll.config
